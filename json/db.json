@@ -1,0 +1,12 @@
+    {
+        "users": [
+        { "id": 1, "name": "Usuario1" },
+        { "id": 2, "name": "Usuario2" },
+        { "id": 3, "name": "Usuario3" }
+        ],
+        "messages": [
+        { "id": 1, "userId": 1, "content": "Hola", "timestamp": "2023-08-24T10:00:00Z" },
+        { "id": 2, "userId": 2, "content": "Hola, ¿cómo estás?", "timestamp": "2023-08-24T10:05:00Z" }
+        ]
+    }
+    

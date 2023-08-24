@@ -1,0 +1,74 @@
+    /* Estilos generales */
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    
+    /* Contenedor del formulario */
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #000;
+    }
+    
+    /* Formulario */
+    #login-form {
+        width: 400px;
+        padding: 20px;
+        border: 5px solid #f00;
+        border-radius: 10px;
+        background-color: #222;
+    }
+    
+    /* Etiquetas */
+    label {
+        display: block;
+        margin-bottom: 10px;
+        color: #fff;
+        font-family: "Arial", sans-serif;
+    }
+    
+    /* Campos de entrada */
+    input {
+        display: block;
+        width: 100%;
+        height: 40px;
+        margin-bottom: 20px;
+        border: none;
+        border-radius: 5px;
+        outline: none;
+    }
+    
+    /* Campo de teléfono */
+    #phone-number {
+        background-color: #333;
+        color: #fff;
+    }
+    
+    /* Campo de contraseña */
+    #password {
+        background-color: #333;
+        color: #fff;
+    }
+    
+    /* Botón de iniciar sesión */
+    #sign-in-button {
+        width: auto;
+        height: auto;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        background-color: #f00;
+        color: #fff;
+    }
+    
+    /* Efecto hover del botón */
+    #sign-in-button:hover {
+        cursor: pointer;
+        transform: scale(1.1);
+        box-shadow: inset -5px -5px rgba(0,0,0,.2);
+    }
+    
