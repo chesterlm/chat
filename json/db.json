@@ -1,12 +1,41 @@
     {
-        "users": [
-        { "id": 1, "name": "Usuario1" },
-        { "id": 2, "name": "Usuario2" },
-        { "id": 3, "name": "Usuario3" }
-        ],
-        "messages": [
-        { "id": 1, "userId": 1, "content": "Hola", "timestamp": "2023-08-24T10:00:00Z" },
-        { "id": 2, "userId": 2, "content": "Hola, ¿cómo estás?", "timestamp": "2023-08-24T10:05:00Z" }
+        "chats": [
+        {
+            "name": "Amor 1",
+            "messages": [
+            { "content": "Hola amor muy perdido pues", "sender": "Me", "timestamp": "10:56" }
+            ]
+        },
+        {
+            "name": "mi chiquita",
+            "messages": [
+            { "content": "como has estado mor?", "sender": "Me", "timestamp": "12:34" }
+            ]
+        },
+        {
+            "name": "Princesa",
+            "messages": [
+            { "content": "mor no me ha bajado", "sender": "Me", "timestamp": "Yesterday" }
+            ]
+        },
+        {
+            "name": "el pana",
+            "messages": [
+            { "content": "parce mi novia esta embarazada", "sender": "Me", "timestamp": "Yesterday" }
+            ]
+        },
+        {
+            "name": "Amor 2",
+            "messages": [
+            { "content": "la pase muy bien contigo anoche", "sender": "Me", "timestamp": "18/01/2022" }
+            ]
+        },
+        {
+            "name": "el bro",
+            "messages": [
+            { "content": "parce caiga, caiga", "sender": "Me", "timestamp": "17/01/2022" }
+            ]
+        }
         ]
     }
     
