@@ -3,37 +3,37 @@
         {
             "name": "Amor 1",
             "messages": [
-            { "content": "Hola amor muy perdido pues", "sender": "Me", "timestamp": "10:56" }
+            { "content": "Hola amor, muy perdido pues", "sender": "Amor 1", "timestamp": "10:56" }
             ]
         },
         {
             "name": "mi chiquita",
             "messages": [
-            { "content": "como has estado mor?", "sender": "Me", "timestamp": "12:34" }
+            { "content": "como has estado mor?", "sender": "mi chiquita", "timestamp": "12:34" }
             ]
         },
         {
             "name": "Princesa",
             "messages": [
-            { "content": "mor no me ha bajado", "sender": "Me", "timestamp": "Yesterday" }
+            { "content": "mor no me ha bajado", "sender": "Princesa", "timestamp": "Yesterday" }
             ]
         },
         {
             "name": "el pana",
             "messages": [
-            { "content": "parce mi novia esta embarazada", "sender": "Me", "timestamp": "Yesterday" }
+            { "content": "parce mi novia esta embarazada", "sender": "el pana", "timestamp": "Yesterday" }
             ]
         },
         {
             "name": "Amor 2",
             "messages": [
-            { "content": "la pase muy bien contigo anoche", "sender": "Me", "timestamp": "18/01/2022" }
+            { "content": "la pase muy bien contigo anoche", "sender": "Amor 2", "timestamp": "18/01/2022" }
             ]
         },
         {
             "name": "el bro",
             "messages": [
-            { "content": "parce caiga, caiga", "sender": "Me", "timestamp": "17/01/2022" }
+            { "content": "parce caiga, caiga", "sender": "el bro", "timestamp": "17/01/2022" }
             ]
         }
         ]

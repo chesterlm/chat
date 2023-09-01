@@ -17,6 +17,11 @@
         #d9dbd5 100%
         );
     }
+    .delivered-text {
+        font-size: 0.90em;
+        color: green;
+        margin-left: 4px;
+    }
     
     
     .container {
@@ -199,6 +204,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
+        position: relative;
     }
     
     .message_p b {
@@ -351,4 +357,5 @@
         border-radius: 30px;
         font-size: 1em;
     }
+
     
