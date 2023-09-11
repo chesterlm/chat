@@ -2,36 +2,66 @@
         "chats": [
         {
             "name": "Amor 1",
+            "cellphone": "3128255359",
+            "password": "062822",
+            "image": "https://4.bp.blogspot.com/-cgzggkMnv4k/WCo4ORgnqWI/AAAAAAAAD8g/IfkgaPHOozg6Q8FLaPfBnt70HON6ZIHNgCLcB/s1600/mujer-y-luna-llena-en-mar.jpg",
+            "status":false,
+            "info": "La GRATITUD es la memoria del corazón",
             "messages": [
             { "content": "Hola amor, muy perdido pues", "sender": "Amor 1", "timestamp": "10:56" }
             ]
         },
         {
             "name": "mi chiquita",
+            "cellphone": "3128255359",
+            "password": "062822",
+            "image": "https://4.bp.blogspot.com/-cgzggkMnv4k/WCo4ORgnqWI/AAAAAAAAD8g/IfkgaPHOozg6Q8FLaPfBnt70HON6ZIHNgCLcB/s1600/mujer-y-luna-llena-en-mar.jpg",
+            "status":false,
+            "info": "La GRATITUD es la memoria del corazón",
             "messages": [
             { "content": "como has estado mor?", "sender": "mi chiquita", "timestamp": "12:34" }
             ]
         },
         {
-            "name": "Princesa",
+            "name": "Neida Caripá",
+            "cellphone": "3128255359",
+            "password": "062822",
+            "image": "https://4.bp.blogspot.com/-cgzggkMnv4k/WCo4ORgnqWI/AAAAAAAAD8g/IfkgaPHOozg6Q8FLaPfBnt70HON6ZIHNgCLcB/s1600/mujer-y-luna-llena-en-mar.jpg",
+            "status":false,
+            "info": "La GRATITUD es la memoria del corazón",
             "messages": [
-            { "content": "mor no me ha bajado", "sender": "Princesa", "timestamp": "Yesterday" }
+            { "content": "Loaiza, el sprint es para hoy, listo?", "sender": "Neida Caripá", "timestamp": "10:30" }
             ]
         },
         {
             "name": "el pana",
+            "cellphone": "3128255359",
+            "password": "062822",
+            "image": "https://4.bp.blogspot.com/-cgzggkMnv4k/WCo4ORgnqWI/AAAAAAAAD8g/IfkgaPHOozg6Q8FLaPfBnt70HON6ZIHNgCLcB/s1600/mujer-y-luna-llena-en-mar.jpg",
+            "status":false,
+            "info": "La GRATITUD es la memoria del corazón",
             "messages": [
             { "content": "parce mi novia esta embarazada", "sender": "el pana", "timestamp": "Yesterday" }
             ]
         },
         {
             "name": "Amor 2",
+            "cellphone": "3128255359",
+            "password": "062822",
+            "image": "https://4.bp.blogspot.com/-cgzggkMnv4k/WCo4ORgnqWI/AAAAAAAAD8g/IfkgaPHOozg6Q8FLaPfBnt70HON6ZIHNgCLcB/s1600/mujer-y-luna-llena-en-mar.jpg",
+            "status":false,
+            "info": "La GRATITUD es la memoria del corazón",
             "messages": [
             { "content": "la pase muy bien contigo anoche", "sender": "Amor 2", "timestamp": "18/01/2022" }
             ]
         },
         {
             "name": "el bro",
+            "cellphone": "3128255359",
+            "password": "062822",
+            "image": "https://4.bp.blogspot.com/-cgzggkMnv4k/WCo4ORgnqWI/AAAAAAAAD8g/IfkgaPHOozg6Q8FLaPfBnt70HON6ZIHNgCLcB/s1600/mujer-y-luna-llena-en-mar.jpg",
+            "status":false,
+            "info": "La GRATITUD es la memoria del corazón",
             "messages": [
             { "content": "parce caiga, caiga", "sender": "el bro", "timestamp": "17/01/2022" }
             ]
